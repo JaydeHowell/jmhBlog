@@ -10,6 +10,7 @@ As I come across new skills and field areas, I will add them to list.
 | _Java Programming_             | Competent  | 2025-04-15     | N/A                                                 | Good foundation in OOP principles; however, would like more experience working with DSA |
 | Python Programming           | Competent  | 2025-04-10     | N/A                                                 | Working knowledge of syntax and have built multiple projects, but need more experience  |
 | Data Structures & Algorithms | Aware      | 2025-04-15     | N/A                                                 | Some passing experience and basic exposure but very limited actual understanding  |
+| Compilers and Interpreters | Aware      | 2025-04-19     | N/A                                                 | Just starting to get a grasp for what they are. Would like to look into building one  |
 | _Web APIs_                     | Familiar   | 2025-04-15     | N/A                                                 | Some adjacent experience and interaction, but need more experience  |
 | _C Programming_                | Familiar   | 2025-04-15     | N/A                                                 | Read basic information, but limited actual experience  |
 | Git & Version Control        | Familiar   | 2025-04-15     | All projects                                        | Fluent in creating repos, comitting, and pushing. Very limited experience in rebasing, branching, and merge conflicts. |
