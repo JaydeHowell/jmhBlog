@@ -8,12 +8,13 @@ As I come across new skills and field areas, I will add them to list.
 | Skill                         | Level      | Last Reviewed | Associated Projects                                 | Notes                                                 |
 |------------------------------|------------|----------------|-----------------------------------------------------|--------------------------------------------------------|
 | _Java Programming_             | Competent  | 2025-04-15     | N/A                                                 | Good foundation in OOP principles; however, would like more experience working with DSA |
-| Python Programming           | Competent  | 2025-04-10     | N/A                                                 | Working knowledge of syntax and have built multiple projects, but need more experience  |
+| Python Programming           | Competent  | 2025-12-04     | N/A                                                 | Working knowledge of syntax and have built multiple projects, but need more experience in specific areas  |
 | Data Structures & Algorithms | Aware      | 2025-04-15     | N/A                                                 | Some passing experience and basic exposure but very limited actual understanding  |
 | Compilers and Interpreters | Aware      | 2025-04-19     | N/A                                                 | Just starting to get a grasp for what they are. Would like to look into building one  |
 | _Web APIs_                     | Familiar   | 2025-04-15     | N/A                                                 | Some adjacent experience and interaction, but need more experience  |
+| _C++ Programming_                | Familiar   | 2025-12-04     | N/A                                                 | Foundational understanding and application. Need more experience in applied systems  |
 | _C Programming_                | Familiar   | 2025-04-15     | N/A                                                 | Read basic information, but limited actual experience  |
-| Git & Version Control        | Familiar   | 2025-04-15     | All projects                                        | Fluent in creating repos, comitting, and pushing. Very limited experience in rebasing, branching, and merge conflicts. |
+| Git & Version Control        | Competent   | 2025-12-04     | All projects                                        | Fluent in creating repos, comitting, and pushing. Applied knowledge in rebasing, branching, and merge conflicts. Limited experience in  |
 | _Embedded Systems (General)_   | Aware      | 2025-04-15     | N/A                                                 | No experience, but will explore with several future projects|
 | _UART Communication_           | Aware      | 2025-04-15     | N/A                                                 | No experience, but will explore with UART project           |
 | Interrupts & ISRs            | Aware      | 2025-04-15     | N/A                                                 | No experience, but will explore with microcontroller project|
